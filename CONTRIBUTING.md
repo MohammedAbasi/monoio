@@ -16,6 +16,8 @@ We welcome any code contributions, please try to make them follow the following 
 
 It is recommended to use GPG to sign your commit.
 
+IS351 team
+
 ## Discussion group
 If you have any needs, welcome to join our discussion group.
 
